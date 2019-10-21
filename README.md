@@ -13,3 +13,4 @@ Python 3.5 oraz moduły:
   -requests
 oba moduły można zainstalować wpisując w oknie konsoli komendę
 pip install [nazwa modułu]
+
